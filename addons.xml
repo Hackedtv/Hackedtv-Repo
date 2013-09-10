@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.Hackedtv" name="HackerMil`s REPO" version="1.0" provider-name="HackerMil">
+	<extension point="xbmc.addon.repository" name="HackerMil`s Hackedtv Addon Repository">
+        <info compressed="false">http://github.com/Hackedtv/Hackedtv-Repo/raw/master/addons.xml</info>
+		<checksum>http://github.com/Hackedtv/Hackedtv-Repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/Hackedtv/Hackedtv-Repo/raw/master/zips</datadir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download And Install Hackedtv From HackerMil`s Repo, For Full Support Follow Me On Twitter [COLOR aqua]@HackerMil[/COLOR]</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
